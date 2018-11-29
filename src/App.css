@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.btns-manip{
+  display: flex;
+  justify-content: center;
+}
+.time-text-item{
+  font-size: 200%;
+  padding-left: 2%;
+}
+.time-digits{
+  font-size: 200%;
+}
+.phone{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 1000px;
+  background-image: url('https://banner2.kisspng.com/20180325/yjw/kisspng-wedding-invitation-carnival-ticket-clip-art-iphone-apple-5ab72c2e5dddf3.0131574115219538383845.jpg');
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position-x: 50%;
+}
